@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RamyElhossary
+- 👋 Hi, I’m Ramy ElHossary
 - 👀 I’m interested in Embedded Systems and Software Engineering
 - 🌱 I’m currently learning Embedded Software Devlopment
 - 💞️ I’m looking to collaborate on open source projects
